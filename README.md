@@ -25,5 +25,6 @@ follow that too!
 [Mastodon](https://mastodon.social/@thinkpadian)
 [X](https://x.com/thinkpadian)
 [Instagram](https://instagram.com/thinkpadian)
+[Bluesky](https://bsky.app/profile/thinkpadian.bsky.social)
 
 Peace ✌
