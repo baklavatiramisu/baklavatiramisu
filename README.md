@@ -24,8 +24,8 @@ Follow my `@thinkpadian` account for my ThinkPad show-offs!
 
 [Mastodon](https://mastodon.social/@thinkpadian)
 [X](https://x.com/thinkpadian)
-[Instagram](https://instagram.com/thinkpadian)
-[Threads](https://threads.com/thinkpadian)
+[Instagram](https://www.instagram.com/thinkpadian)
+[Threads](https://www.threads.com/@thinkpadian)
 [Bluesky](https://bsky.app/profile/thinkpadian.bsky.social)
 
 Peace ✌
