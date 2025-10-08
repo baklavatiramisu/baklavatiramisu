@@ -17,7 +17,7 @@ criticisms and even roasts!
 ### About my workstation
 
 I used to work on my Lenovo ThinkPad P14s running RedHat Linux. I am a
-great fan of ThinkPads because I love the cult, looks, the red trackpoint,
+great fan of ThinkPads because I love the way it looks, the red trackpoint,
 durability and the vibrant ThinkPad community!
 
 Follow my `@thinkpadian` account for my ThinkPad show-offs!
