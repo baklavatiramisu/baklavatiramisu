@@ -18,7 +18,7 @@ criticisms and even roasts!
 
 ### About my workstation
 
-I used to work on my Lenovo ThinkPad P14s running RedHat Linux. I am a
+I used to work on my Lenovo ThinkPad P14s running Rocky Linux. I am a
 great fan of ThinkPads because I love the way it looks, the red trackpoint,
 durability and the vibrant ThinkPad community!
 
